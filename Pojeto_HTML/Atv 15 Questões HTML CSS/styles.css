@@ -1,0 +1,23 @@
+body{
+    background-color: whitesmoke;
+    font-family: Arial, sans-serif;
+    padding: 0;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+
+p{
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.6; 
+    margin: 20px;
+}
+
+img{
+    border: solid black 5px;
+}
