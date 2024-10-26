@@ -1,16 +1,21 @@
 body{
-    background-color: whitesmoke;
+    background-color: white;
     font-family: Arial, sans-serif;
     padding: 0;
 }
 
 h1{
-    color: blue;
+    color: blueviolet;
     text-align: center;
     padding: 20px;
-    background-color: whitesmoke;
+    background-color: white;
 }
 
+h2{
+    color: wheat;
+    padding: 20px;
+    background-color: white;
+}
 p{
     color: black;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -20,4 +25,39 @@ p{
 
 img{
     border: solid black 5px;
+}
+
+ul{
+    list-style: square;
+    font-weight: bolder;
+    color: black;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+ol{
+    list-style: upper-roman;
+    color: black;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+tr :nth-child(even){
+    background-color: azure;
+}
+
+th{
+    background-color: rgb(173, 15, 147);
+    color: rgb(189, 189, 189);
 }

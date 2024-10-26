@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+}
+
+h1{
+    color: white;
+    background-color: #003079;
+}
+h2{
+    color: #003079;
+}
+
+header{
+    bottom: ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ffffff;
+
+}

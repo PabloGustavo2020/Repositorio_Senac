@@ -1,0 +1,84 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    display: flex;
+}
+
+h1{
+    color: rgb(27, 214, 214);
+    text-align: center;
+    margin-left: 20px;
+}
+
+p{
+    color: dimgrey;
+    font-family:cursive;
+    font-size: 21px;
+}
+p{
+    color: dimgrey;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+#marketing{
+    color: black;
+    border-radius : 30px;
+    padding: 10px;
+
+}
+
+#adm{
+    color: black;
+    border-radius : 30px;
+    padding: 10px;
+}
+#assistencia{
+    color: black;
+    border-radius : 30px;
+    padding: 10px;
+}
+
+#engenharia{
+    color: black;
+    border-radius : 30px;
+    padding: 10px;
+}
+#servicos{
+    color: black;
+    border-radius : 30px;
+    padding: 10px;
+}
+#sustentabilidade{
+    color: black;
+    border-radius : 30px;
+    padding: 10px;
+}
+#administracao{
+    color: black;
+    border-radius : 30px;
+    padding: 10px;
+}
+#telecomun{
+    color: black;
+    border-radius : 30px;
+    padding: 10px;
+}
+#gestao{
+    color: black;
+    border-radius : 30px;
+    padding: 10px;
+}
+#exibir{
+    color: rgb(17, 64, 218);
+    border-radius : 30px; 
+    padding: 10px;
+
+}
+
+
