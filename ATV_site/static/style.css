@@ -106,3 +106,14 @@ footer{
 a.R{
     color: #ffffff;
 }
+
+.aba2{
+    color: black;
+    text-align: center;
+}
+
+button .B2{
+    color: white;
+    background-color: rgb(7, 168, 15);
+    align-items: center;
+}
